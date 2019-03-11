@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tetardink-9768.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Tetardink\Intermediate\Build\Win64\TetardinkEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\bulletActor.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Meca1.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Tetardink.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\bulletActor.gen.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Meca1.gen.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Tetardink.init.gen.cpp.obj"
+"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\PCLaunch.rc.res"
+/OUT:"A:\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-9768.lib"

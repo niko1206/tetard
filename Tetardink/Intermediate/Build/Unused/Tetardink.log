@@ -1,0 +1,15 @@
+﻿  Creating makefile for hot reloading TetardinkEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 4 processes...
+    [1/7] SharedPCH.Engine.cpp
+    [2/7] Tetardink.init.gen.cpp
+    [3/7] Tetardink.cpp
+    [4/7] Meca1.cpp
+    [5/7] Meca1.gen.cpp
+    [6/7] UE4Editor-Tetardink-2213.lib
+       Cr?ation de la biblioth?que C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-2213.lib et de l'objet C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-2213.exp
+    [7/7] UE4Editor-Tetardink-2213.dll
+       Cr?ation de la biblioth?que C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-2213.suppressed.lib et de l'objet C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-2213.suppressed.exp
+  Deploying TetardinkEditor Win64 Development...
+  Total build time: 38,63 seconds (Parallel executor: 31,09 seconds)

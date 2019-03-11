@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tetardink-2449.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Meca1.cpp.obj"
+"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Tetardink.cpp.obj"
+"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Meca1.gen.cpp.obj"
+"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\Tetardink.init.gen.cpp.obj"
+"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\PCLaunch.rc.res"
+/OUT:"C:\Users\lilia\Documents\Unreal Projects\Tetardink\Intermediate\Build\Win64\UE4Editor\Development\Tetardink\UE4Editor-Tetardink-2449.lib"

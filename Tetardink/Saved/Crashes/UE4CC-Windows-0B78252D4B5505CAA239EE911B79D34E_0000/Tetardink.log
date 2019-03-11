@@ -1,0 +1,618 @@
+﻿Log file open, 11/19/18 12:31:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Tetardink
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274191
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.133s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: A:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.19-11.31.02:456][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-11.31.02:456][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.19-11.31.02:480][  0]LogHAL: Display: Platform has ~ 16 GB [17055371264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.19-11.31.02:480][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.19-11.31.02:480][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.19-11.31.02:486][  0]LogInit: Computer: DESKTOP-7FEQLV1
+[2018.11.19-11.31.02:486][  0]LogInit: User: guill
+[2018.11.19-11.31.02:486][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.19-11.31.02:486][  0]LogInit: High frequency timer resolution =2.437503 MHz
+[2018.11.19-11.31.02:486][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.19-11.31.02:486][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.19-11.31.02:486][  0]LogMemory: Process Physical Memory: 99.85 MB used, 99.85 MB peak
+[2018.11.19-11.31.02:486][  0]LogMemory: Process Virtual Memory: 94.87 MB used, 94.87 MB peak
+[2018.11.19-11.31.02:486][  0]LogMemory: Physical Memory: 9872.38 MB used,  6392.89 MB free, 16265.27 MB total
+[2018.11.19-11.31.02:486][  0]LogMemory: Virtual Memory: 4635.55 MB used,  6392.89 MB free, 134217728.00 MB total
+[2018.11.19-11.31.02:767][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.19-11.31.02:767][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.19-11.31.02:769][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.19-11.31.02:801][  0]LogStreaming: Display: Took  0.034s to InitEngineTextLocalization.
+[2018.11.19-11.31.02:801][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.19-11.31.02:900][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.19-11.31.02:900][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.19-11.31.06:212][  0]LogHMD: Failed to initialize OpenVR with code 103
+[2018.11.19-11.31.06:212][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.19-11.31.06:337][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.19-11.31.06:337][  0]LogD3D11RHI:       4021/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.19-11.31.06:346][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.19-11.31.06:346][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.19-11.31.06:350][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.19-11.31.06:350][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.19-11.31.06:350][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.19-11.31.06:391][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.19-11.31.06:391][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.11.19-11.31.06:391][  0]LogWindows: EnumDisplayDevices:
+[2018.11.19-11.31.06:392][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.19-11.31.06:392][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.19-11.31.06:392][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.19-11.31.06:393][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.19-11.31.06:393][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.19-11.31.06:393][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.19-11.31.06:393][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.19-11.31.06:393][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.11.19-11.31.06:434][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.19-11.31.06:453][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.19-11.31.06:455][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../tetard-test/Tetardink/Intermediate/Shaders/WorkingDirectory/27744/).
+[2018.11.19-11.31.06:455][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/guill/AppData/Local/Temp/UnrealShaderWorkingDir/97E3028C445853180B6EF7A343F444C6/'.
+[2018.11.19-11.31.07:069][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.19-11.31.07:097][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.19-11.31.07:127][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.19-11.31.07:156][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.19-11.31.07:192][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.19-11.31.07:223][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.19-11.31.07:252][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.19-11.31.07:283][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.19-11.31.07:308][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:421][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-11.31.07:437][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.19-11.31.07:562][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-11.31.07:562][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-11.31.07:614][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-11.31.07:614][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-11.31.07:643][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.19-11.31.07:672][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.19-11.31.07:702][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.19-11.31.07:742][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.19-11.31.07:767][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-11.31.07:767][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.19-11.31.08:229][  0]LogXGEController: Cleaning working directory: C:/Users/guill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.19-11.31.08:229][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.19-11.31.08:229][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.19-11.31.08:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.19-11.31.10:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.19-11.31.10:934][  0]LogDerivedDataCache: Loaded boot cache 0.29s 71MB C:/Users/guill/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.19-11.31.10:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/guill/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.19-11.31.10:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../tetard-test/Tetardink/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.19-11.31.10:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.19-11.31.10:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../tetard-test/Tetardink/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-11.31.10:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.19-11.31.10:963][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.19-11.31.10:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/guill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.19-11.31.10:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.19-11.31.10:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.19-11.31.10:996][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.19-11.31.10:998][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.19-11.31.11:017][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-11.31.11:313][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.11.19-11.31.11:656][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-11.31.12:145][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.19-11.31.12:204][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.19-11.31.12:204][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.19-11.31.12:204][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.19-11.31.12:205][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.19-11.31.12:261][  0]LogNetVersion: Tetardink 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 14813307)
+[2018.11.19-11.31.13:671][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.138449 seconds
+[2018.11.19-11.31.13:677][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.19-11.31.13:677][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.19-11.31.13:677][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.19-11.31.18:366][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.19-11.31.18:398][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.19-11.31.18:999][  0]SourceControl: Source control is disabled
+[2018.11.19-11.31.18:999][  0]SourceControl: Source control is disabled
+[2018.11.19-11.31.19:030][  0]SourceControl: Source control is disabled
+[2018.11.19-11.31.19:050][  0]SourceControl: Source control is disabled
+[2018.11.19-11.31.19:974][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.19-11.31.20:178][  0]LogOcInput: OculusInput pre-init called
+[2018.11.19-11.31.20:364][  0]LogEngine: Initializing Engine...
+[2018.11.19-11.31.20:391][  0]LogHMD: Failed to initialize OpenVR with code 103
+[2018.11.19-11.31.20:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-11.31.20:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-11.31.20:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-11.31.20:393][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-11.31.20:849][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.19-11.31.20:892][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-11.31.20:916][  0]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-11.31.20:935][  0]LogInit: FAudioDevice initialized.
+[2018.11.19-11.31.20:936][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.19-11.31.21:353][  0]LogDerivedDataCache: Saved boot cache 0.42s 71MB C:/Users/guill/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.19-11.31.21:358][  0]LogInit: Texture streaming: Enabled
+[2018.11.19-11.31.21:447][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.19-11.31.21:489][  0]LogInit: Transaction tracking system initialized
+[2018.11.19-11.31.21:615][  0]BlueprintLog: New page: Editor Load
+[2018.11.19-11.31.22:173][  0]LocalizationService: Localization service is disabled
+[2018.11.19-11.31.23:123][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.19-11.31.23:123][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.19-11.31.23:123][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.19-11.31.23:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-11.31.23:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-11.31.23:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-11.31.23:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-11.31.23:510][  0]LogFileCache: Scanning file cache for directory 'A:/tetard-test/Tetardink/Content/' took 0.02s
+[2018.11.19-11.31.23:885][  0]SourceControl: Source control is disabled
+[2018.11.19-11.31.23:885][  0]Cmd: MAP LOAD FILE="../../../../tetard-test/Tetardink/Content/trucs_a_nous/map/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.19-11.31.23:892][  0]LightingResults: New page: Lighting Build
+[2018.11.19-11.31.23:894][  0]MapCheck: New page: Map Check
+[2018.11.19-11.31.23:894][  0]LightingResults: New page: Lighting Build
+[2018.11.19-11.31.24:317][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-11.31.24:334][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.19-11.31.24:362][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.19-11.31.24:421][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58,363ms to complete.
+[2018.11.19-11.31.24:421][  0]LogFileHelpers: Loading map 'Untitled' took 0.536
+[2018.11.19-11.31.24:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.31.24:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.31.24:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.31.24:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-11.31.24:598][  0]LogCollectionManager: Loaded 0 collections in 0.000962 seconds
+[2018.11.19-11.31.24:639][  0]LogFileCache: Scanning file cache for directory 'A:/tetard-test/Tetardink/Saved/Collections/' took 0.01s
+[2018.11.19-11.31.24:639][  0]LogFileCache: Scanning file cache for directory 'A:/tetard-test/Tetardink/Content/Developers/guill/Collections/' took 0.01s
+[2018.11.19-11.31.24:639][  0]LogFileCache: Scanning file cache for directory 'A:/tetard-test/Tetardink/Content/Collections/' took 0.01s
+[2018.11.19-11.31.24:639][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.19-11.31.24:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2574 classes and 605 folders.
+[2018.11.19-11.31.24:655][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.11.19-11.31.25:134][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.19-11.31.25:158][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.19-11.31.25:251][  0]LogSlate: Took 0.009507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.19-11.31.25:261][  0]LogSlate: Took 0.007341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.19-11.31.25:273][  0]LogSlate: Took 0.007234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.19-11.31.25:425][  0]LogRenderer: Reallocating scene render targets to support 808x436 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-11.31.25:701][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.19-11.31.25:701][  0]LogLoad: (Engine Initialization) Total time: 28.03 seconds
+[2018.11.19-11.31.25:701][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.19-11.31.25:721][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.19-11.31.25:741][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.19-11.31.25:781][  0]LogSlate: Took 0.007405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-11.31.25:824][  1]LogAssetRegistry: Asset discovery search completed in 14.5348 seconds
+[2018.11.19-11.31.25:827][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.19-11.31.25:827][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2018.11.19-11.34.04:802][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-11.59.51:612][589]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-11.59.52:953][589]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.19-12.00.11:010][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/level_generator_test.level_generator_test
+[2018.11.19-12.00.11:718][669]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.11.19-12.00.12:770][669]LogRenderer: Reallocating scene render targets to support 808x540 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-12.00.13:811][728]LogSlate: Took 0.010852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.19-12.00.26:771][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-12.00.29:414][654]LogSlate: Took 0.008574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.19-12.02.11:022][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/trucs_a_nous/map/Untitled' took 0.038
+[2018.11.19-12.02.11:024][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/level_generator_test] ([1] browsable assets)...
+[2018.11.19-12.02.11:024][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/level_generator_test]
+[2018.11.19-12.02.11:025][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/level_generator_test" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-12.02.11:043][272]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/level_generator_test_Auto12177DD4843229FAF61F3D5813D23D202.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto1.uasset'
+[2018.11.19-12.02.11:047][272]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.11.19-12.02.21:594][304]LogSlate: Window 'level_generator_test*' being destroyed
+[2018.11.19-12.02.21:596][304]LogSlate: Window 'level_generator_test*' being destroyed
+[2018.11.19-12.03.07:858][964]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.19-12.03.32:350][418]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.11.19-12.03.44:948][418]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.11.19-12.03.55:245][ 28]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/anim_blueprint.anim_blueprint
+[2018.11.19-12.03.55:361][ 28]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.19-12.03.55:701][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.19-12.03.55:709][ 28]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.19-12.03.56:004][ 28]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.19-12.03.56:374][ 28]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.19-12.04.28:566][925]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/trucs_a_nous/3d/death.death
+[2018.11.19-12.04.28:603][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.19-12.04.28:641][925]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.19-12.04.29:078][925]LogRenderer: Reallocating scene render targets to support 836x540 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-12.04.29:078][925]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.19-12.04.36:619][347]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/trucs_a_nous/3d/walking.walking
+[2018.11.19-12.04.36:631][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.19-12.04.36:667][347]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.19-12.04.37:075][347]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.19-12.04.51:704][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-12.04.51:738][197]BlueprintLog: New page: Compile anim_blueprint
+[2018.11.19-12.04.56:516][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-12.07.45:719][169]LogSlate: Window 'anim_blueprint*' being destroyed
+[2018.11.19-12.08.04:415][248]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/trucs_a_nous/3d/idle.idle
+[2018.11.19-12.08.04:428][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.19-12.08.04:481][248]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.19-12.08.04:874][248]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.19-12.08.17:399][990]LogEditorFactories: Performing atomic reimport of [C:/Users/guill/Desktop/robot maybe good this time.fbx]
+[2018.11.19-12.08.17:465][990]LogFbx: Loading FBX Scene from C:/Users/guill/Desktop/robot maybe good this time.fbx
+[2018.11.19-12.08.17:521][990]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.19-12.08.17:525][990]LogFbx: =================================================
+[2018.11.19-12.08.17:525][990]LogFbx: Dumping Node START [Cylinder.015] 
+[2018.11.19-12.08.17:525][990]LogFbx: 	Total Deformer Count 236211232.
+[2018.11.19-12.08.17:525][990]LogFbx: 		[Node 1] robot rig (Type Skin).
+[2018.11.19-12.08.17:525][990]LogFbx: =================================================
+[2018.11.19-12.08.17:525][990]LogFbx: 	Attribute (Cylinder.020) Type (4).
+[2018.11.19-12.08.17:525][990]LogFbx: 		[Node Attribute Child 1] Cylinder.015 (Type Mesh).
+[2018.11.19-12.08.17:525][990]LogFbx: Dumping Node END [Cylinder.015]
+[2018.11.19-12.08.17:526][990]LogFbx: =================================================
+[2018.11.19-12.08.17:526][990]LogFbx: Dumping Node START [Cylinder.015] 
+[2018.11.19-12.08.17:527][990]LogFbx: 	Total Deformer Count 236211232.
+[2018.11.19-12.08.17:527][990]LogFbx: 		[Node 1] robot rig (Type Skin).
+[2018.11.19-12.08.17:527][990]LogFbx: =================================================
+[2018.11.19-12.08.17:527][990]LogFbx: 	Attribute (Cylinder.020) Type (4).
+[2018.11.19-12.08.17:527][990]LogFbx: 		[Node Attribute Child 1] Cylinder.015 (Type Mesh).
+[2018.11.19-12.08.17:527][990]LogFbx: Dumping Node END [Cylinder.015]
+[2018.11.19-12.08.17:530][990]LogFbx: Parsing AnimStack robot rig|ArmatureAction
+[2018.11.19-12.08.17:548][990]LogEditorFactories: -- imported successfully
+[2018.11.19-12.08.27:594][589]LogEditorFactories: Performing atomic reimport of [C:/Users/guill/Desktop/robot maybe good this time.fbx]
+[2018.11.19-12.08.27:636][589]LogFbx: Loading FBX Scene from C:/Users/guill/Desktop/robot maybe good this time.fbx
+[2018.11.19-12.08.27:691][589]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.19-12.08.27:695][589]LogFbx: =================================================
+[2018.11.19-12.08.27:695][589]LogFbx: Dumping Node START [Cylinder.015] 
+[2018.11.19-12.08.27:695][589]LogFbx: 	Total Deformer Count 1146157824.
+[2018.11.19-12.08.27:695][589]LogFbx: 		[Node 1] robot rig (Type Skin).
+[2018.11.19-12.08.27:695][589]LogFbx: =================================================
+[2018.11.19-12.08.27:695][589]LogFbx: 	Attribute (Cylinder.020) Type (4).
+[2018.11.19-12.08.27:695][589]LogFbx: 		[Node Attribute Child 1] Cylinder.015 (Type Mesh).
+[2018.11.19-12.08.27:695][589]LogFbx: Dumping Node END [Cylinder.015]
+[2018.11.19-12.08.27:696][589]LogFbx: =================================================
+[2018.11.19-12.08.27:696][589]LogFbx: Dumping Node START [Cylinder.015] 
+[2018.11.19-12.08.27:696][589]LogFbx: 	Total Deformer Count 1146157824.
+[2018.11.19-12.08.27:696][589]LogFbx: 		[Node 1] robot rig (Type Skin).
+[2018.11.19-12.08.27:696][589]LogFbx: =================================================
+[2018.11.19-12.08.27:696][589]LogFbx: 	Attribute (Cylinder.020) Type (4).
+[2018.11.19-12.08.27:696][589]LogFbx: 		[Node Attribute Child 1] Cylinder.015 (Type Mesh).
+[2018.11.19-12.08.27:696][589]LogFbx: Dumping Node END [Cylinder.015]
+[2018.11.19-12.08.27:700][589]LogFbx: Parsing AnimStack robot rig|ArmatureAction
+[2018.11.19-12.08.27:809][589]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/trucs_a_nous/3d/idle.idle
+[2018.11.19-12.08.27:809][589]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.idle) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.19-12.08.27:824][589]LogEditorFactories: -- imported successfully
+[2018.11.19-12.08.31:596][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-12.08.31:705][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trucs_a_nous/3d/idle" FILE="../../../../tetard-test/Tetardink/Content/trucs_a_nous/3d/idle.uasset" SILENT=true
+[2018.11.19-12.08.31:726][809]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/idleB89BA8E8405821E895E77A945D675A37.tmp' to '../../../../tetard-test/Tetardink/Content/trucs_a_nous/3d/idle.uasset'
+[2018.11.19-12.08.32:840][875]LogSlate: Window 'idle' being destroyed
+[2018.11.19-12.12.11:696][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/trucs_a_nous/map/Untitled' took 0.040
+[2018.11.19-12.12.11:698][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/anim_blueprint] ([1] browsable assets)...
+[2018.11.19-12.12.11:739][784]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/anim_blueprint.anim_blueprint]
+[2018.11.19-12.12.11:739][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/anim_blueprint]
+[2018.11.19-12.12.11:739][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/anim_blueprint" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/anim_blueprint_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-12.12.11:770][784]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/anim_blueprint_Auto25FA1E15A4C2FAEFC6EBAC79DD71FD941.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/anim_blueprint_Auto2.uasset'
+[2018.11.19-12.12.11:771][784]LogFileHelpers: Auto-saving content packages took 0.075
+[2018.11.19-12.23.19:657][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-12.23.19:683][927]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.19-12.23.19:686][927]LogPlayLevel: [PlayLevel] Compiling level_generator_test before play...
+[2018.11.19-12.23.19:693][927]LogPlayLevel: [PlayLevel] Compiling anim_blueprint before play...
+[2018.11.19-12.23.19:844][927]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (2 blueprints)
+[2018.11.19-12.23.19:863][927]PIE: New page: PIE session: Untitled (19 nov. 2018 14:23:19)
+[2018.11.19-12.23.19:864][927]LogPlayLevel: Creating play world package: /Game/trucs_a_nous/map/UEDPIE_0_Untitled
+[2018.11.19-12.23.19:868][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004215s)
+[2018.11.19-12.23.19:869][927]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-12.23.19:870][927]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2018.11.19-12.23.19:870][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/trucs_a_nous/map/Untitled.Untitled to /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled (0.006248s)
+[2018.11.19-12.23.19:916][927]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-12.23.19:927][927]LogInit: FAudioDevice initialized.
+[2018.11.19-12.23.20:393][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.19-12.23.20:395][927]LogWorld: Bringing World /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2018.11.19-13.23.20
+[2018.11.19-12.23.20:395][927]LogWorld: Bringing up level for play took: 0.001105
+[2018.11.19-12.23.20:420][927]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2018.11.19-12.23.20:423][927]PIE: Play in editor start time for /Game/trucs_a_nous/map/UEDPIE_0_Untitled 0,713
+[2018.11.19-12.24.50:434][316]Set new viewmode: Wireframe
+[2018.11.19-12.24.51:885][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-12.24.51:920][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-12.24.51:953][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-12.24.51:986][405]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.19-12.25.21:064][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/trucs_a_nous/map/Untitled' took 0.033
+[2018.11.19-12.25.21:066][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/level_generator_test] ([1] browsable assets)...
+[2018.11.19-12.25.21:067][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/level_generator_test]
+[2018.11.19-12.25.21:067][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/level_generator_test" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-12.25.21:090][772]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/level_generator_test_Auto37DDC917640494FF334217EAC48797E7B.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto3.uasset'
+[2018.11.19-12.25.21:091][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/anim_blueprint] ([1] browsable assets)...
+[2018.11.19-12.25.21:091][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/anim_blueprint]
+[2018.11.19-12.25.21:091][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/anim_blueprint" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/anim_blueprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-12.25.21:111][772]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/anim_blueprint_Auto37C457EC743F0D12E6692C6BA0F205257.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/anim_blueprint_Auto3.uasset'
+[2018.11.19-12.25.21:111][772]LogFileHelpers: Auto-saving content packages took 0.046
+[2018.11.19-18.46.56:039][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-18.47.00:036][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_shit)
+[2018.11.19-19.50.50:751][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-19.50.57:415][990]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/level_generator_test.level_generator_test
+[2018.11.19-19.50.59:888][ 94]LogSlate: Window 'level_generator_test*' being destroyed
+[2018.11.19-19.50.59:904][ 95]LogRenderer: Reallocating scene render targets to support 1012x544 Format 10 NumSamples 1 (Frame:24580).
+[2018.11.19-19.52.07:475][114]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/trucs_a_nous/map/Untitled' took 0.039
+[2018.11.19-19.52.07:477][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/level_generator_test] ([1] browsable assets)...
+[2018.11.19-19.52.07:477][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/level_generator_test]
+[2018.11.19-19.52.07:477][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/level_generator_test" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-19.52.07:499][114]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/level_generator_test_Auto42EDFA48A45FD7E1592F639BF7FCB950E.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto4.uasset'
+[2018.11.19-19.52.07:500][114]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.11.19-19.57.58:349][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-19.57.58:376][207]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.19-19.57.58:381][207]LogPlayLevel: [PlayLevel] Compiling level_generator_test before play...
+[2018.11.19-19.57.58:388][207]LogBlueprint: Error: [Compiler level_generator_test] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.11.19-19.57.58:389][207]LogBlueprint: Warning: [Compiler level_generator_test] [0420,73] Compile of level_generator_test failed. 1 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/Blueprints/level_generator_test.level_generator_test)
+[2018.11.19-19.57.58:432][207]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2018.11.19-19.57.58:432][207]BlueprintLog: Blueprint level_generator_test failed to compile
+[2018.11.19-19.58.02:403][207]LogSlate: Window 'Message' being destroyed
+[2018.11.19-20.02.07:676][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/trucs_a_nous/map/Untitled' took 0.040
+[2018.11.19-20.02.07:679][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/level_generator_test] ([1] browsable assets)...
+[2018.11.19-20.02.07:679][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/level_generator_test]
+[2018.11.19-20.02.07:679][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/level_generator_test" FILE="../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.11.19-20.02.07:701][161]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/level_generator_test_Auto53E44E3F74BB2F7E46ED14FA094C54E96.tmp' to '../../../../tetard-test/Tetardink/Saved/Autosaves/Game/Blueprints/level_generator_test_Auto5.uasset'
+[2018.11.19-20.02.07:702][161]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.11.19-23.07.34:862][420]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-23.07.34:913][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-23.07.36:274][420]LogSlate: Window 'Message' being destroyed
+[2018.11.19-23.07.38:915][578]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/level_generator_test.level_generator_test
+[2018.11.19-23.07.48:269][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/level_generator_test" FILE="../../../../tetard-test/Tetardink/Content/Blueprints/level_generator_test.uasset" SILENT=true
+[2018.11.19-23.07.48:290][ 94]LogSavePackage: Moving '../../../../tetard-test/Tetardink/Saved/level_generator_testFE9F44CE45C4BE9400D20589808E3D73.tmp' to '../../../../tetard-test/Tetardink/Content/Blueprints/level_generator_test.uasset'
+[2018.11.19-23.07.48:832][126]BlueprintLog: New page: Compile level_generator_test
+[2018.11.19-23.07.51:487][270]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-23.07.51:513][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-23.07.51:513][270]PIE: New page: PIE session: Untitled (20 nov. 2018 01:07:51)
+[2018.11.19-23.07.51:514][270]LogPlayLevel: Creating play world package: /Game/trucs_a_nous/map/UEDPIE_0_Untitled
+[2018.11.19-23.07.51:521][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006915s)
+[2018.11.19-23.07.51:523][270]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-23.07.51:523][270]LogPlayLevel: PIE: World Init took: (0.002587s)
+[2018.11.19-23.07.51:524][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/trucs_a_nous/map/Untitled.Untitled to /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled (0.009883s)
+[2018.11.19-23.07.51:570][270]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-23.07.51:583][270]LogInit: FAudioDevice initialized.
+[2018.11.19-23.07.51:617][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.19-23.07.51:620][270]LogWorld: Bringing World /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2018.11.20-00.07.51
+[2018.11.19-23.07.51:620][270]LogWorld: Bringing up level for play took: 0.001390
+[2018.11.19-23.07.51:636][270]PIE: Play in editor start time for /Game/trucs_a_nous/map/UEDPIE_0_Untitled -0,066
+[2018.11.19-23.19.01:710][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.19.03:257][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.19.04:710][594]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.19-23.19.05:067][608]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Tetardink
+[2018.11.19-23.19.05:067][608]LogTemp: CWD: A:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.19-23.19.05:067][608]LogTemp: Initial Dir: A:\UE_4.20
+[2018.11.19-23.19.05:067][608]LogTemp: Env CWD: A:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.19-23.19.05:082][609]LogTemp: BranchPath = DESKTOP-7FEQLV1/A/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7FEQLV1/A/UE_4.20/Engine/Binaries
+[2018.11.19-23.19.05:133][612]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\guill\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.19-23.20.23:248][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-23.20.23:699][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.23:735][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-23.20.23:769][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.23:798][285]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.19-23.20.24:547][329]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-23.20.24:574][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-23.20.24:574][329]PIE: New page: PIE session: Untitled (20 nov. 2018 01:20:24)
+[2018.11.19-23.20.24:574][329]LogPlayLevel: Creating play world package: /Game/trucs_a_nous/map/UEDPIE_0_Untitled
+[2018.11.19-23.20.24:577][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003189s)
+[2018.11.19-23.20.24:579][329]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-23.20.24:579][329]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2018.11.19-23.20.24:579][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/trucs_a_nous/map/Untitled.Untitled to /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled (0.005094s)
+[2018.11.19-23.20.24:628][329]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-23.20.24:638][329]LogInit: FAudioDevice initialized.
+[2018.11.19-23.20.24:643][329]LogHardwareCursor: Error: Failed to load cursor '../../../../tetard-test/Tetardink/Content/None'.  If you included a file extension or the size information '_WidthxHeight' remove them.
+[2018.11.19-23.20.24:675][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.19-23.20.24:676][329]LogWorld: Bringing World /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2018.11.20-00.20.24
+[2018.11.19-23.20.24:676][329]LogWorld: Bringing up level for play took: 0.000991
+[2018.11.19-23.20.24:691][329]PIE: Play in editor start time for /Game/trucs_a_nous/map/UEDPIE_0_Untitled 0,989
+[2018.11.19-23.20.26:414][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.26:447][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-23.20.26:482][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.26:542][432]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.19-23.20.26:941][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-23.20.39:734][183]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.19-23.20.39:741][183]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.19-23.20.40:692][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-23.20.40:759][243]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-23.20.40:785][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-23.20.40:785][243]PIE: New page: PIE session: Untitled (20 nov. 2018 01:20:40)
+[2018.11.19-23.20.40:785][243]LogPlayLevel: Creating play world package: /Game/trucs_a_nous/map/UEDPIE_0_Untitled
+[2018.11.19-23.20.40:788][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002883s)
+[2018.11.19-23.20.40:790][243]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-23.20.40:790][243]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2018.11.19-23.20.40:790][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/trucs_a_nous/map/Untitled.Untitled to /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled (0.004710s)
+[2018.11.19-23.20.40:836][243]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-23.20.40:847][243]LogInit: FAudioDevice initialized.
+[2018.11.19-23.20.40:850][243]LogHardwareCursor: Error: Failed to load cursor '../../../../tetard-test/Tetardink/Content/None'.  If you included a file extension or the size information '_WidthxHeight' remove them.
+[2018.11.19-23.20.40:882][243]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.19-23.20.40:883][243]LogWorld: Bringing World /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2018.11.20-00.20.40
+[2018.11.19-23.20.40:884][243]LogWorld: Bringing up level for play took: 0.000813
+[2018.11.19-23.20.40:897][243]PIE: Play in editor start time for /Game/trucs_a_nous/map/UEDPIE_0_Untitled -0,805
+[2018.11.19-23.20.44:275][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.44:313][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.19-23.20.44:347][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-23.20.44:380][446]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.19-23.20.44:957][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.20.47:825][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.20.48:002][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.20.49:057][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-23.20.50:015][715]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.19-23.20.50:082][715]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Tetardink
+[2018.11.19-23.20.50:082][715]LogTemp: CWD: A:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.19-23.20.50:082][715]LogTemp: Initial Dir: A:\UE_4.20
+[2018.11.19-23.20.50:082][715]LogTemp: Env CWD: A:\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.19-23.20.50:086][715]LogTemp: BranchPath = DESKTOP-7FEQLV1/A/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7FEQLV1/A/UE_4.20/Engine/Binaries
+[2018.11.19-23.20.50:100][715]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\guill\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.19-23.21.18:909][237]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.19-23.21.21:421][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (map_shit)
+[2018.11.19-23.21.21:907][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-23.21.21:974][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-23.21.22:001][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-23.21.22:002][395]PIE: New page: PIE session: Untitled (20 nov. 2018 01:21:22)
+[2018.11.19-23.21.22:002][395]LogPlayLevel: Creating play world package: /Game/trucs_a_nous/map/UEDPIE_0_Untitled
+[2018.11.19-23.21.22:004][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001994s)
+[2018.11.19-23.21.22:005][395]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-23.21.22:006][395]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2018.11.19-23.21.22:006][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/trucs_a_nous/map/Untitled.Untitled to /Game/trucs_a_nous/map/UEDPIE_0_Untitled.Untitled (0.004101s)
+[2018.11.19-23.21.22:049][395]LogInit: XAudio2 using 'Headphones (Turtle Beach Recon 60P)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.19-23.21.22:060][395]LogInit: FAudioDevice initialized.
+[2018.11.19-23.21.23:014][395]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.952 s
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: 
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: Ensure condition failed: CursorClass.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\GameViewportClient.cpp] [Line: 822]
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: UGameViewportClient::AddCusor: Cursor class is not valid!
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: Stack: 
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff90e6671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff90e3a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff90e3bb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff8f069c10b UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff8f06d677d UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff90997d036 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff9099a01ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff9099be536 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff9093d6b41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff909ccf666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff6961e5cbd UE4Editor.exe!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff6961f5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff6961f5bba UE4Editor.exe!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff696203dac UE4Editor.exe!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff696205aaa UE4Editor.exe!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff969483034 KERNEL32.DLL!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: [Callstack] 0x00007ff96bcb1471 ntdll.dll!UnknownFunction []
+[2018.11.19-23.21.23:014][395]LogOutputDevice: Error: 
+[2018.11.19-23.21.23:020][395]LogStats:                SubmitErrorReport -  0.000 s

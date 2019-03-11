@@ -1,0 +1,3 @@
+A:\Tetardink\Source\Tetardink\Tetardink.Build.cs
+A:\Tetardink\Source\Tetardink.Target.cs
+A:\Tetardink\Source\TetardinkEditor.Target.cs

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Tetardink.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{AB381EAB-589C-4D6F-977D-89ADA0E21A4A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Tetardink.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TetardinkEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0CF9F4F5-EC8E-46DC-9977-A715E62C2D73}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Tetardink">
+			<UniqueIdentifier>{DE51E73C-5F6E-492D-B025-3E465AC77B2C}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Tetardink\bulletActor.cpp">
+			<Filter>Source\Tetardink</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tetardink\bulletActor.h">
+			<Filter>Source\Tetardink</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Tetardink\Meca1.cpp">
+			<Filter>Source\Tetardink</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tetardink\Meca1.h">
+			<Filter>Source\Tetardink</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Tetardink\Tetardink.Build.cs">
+			<Filter>Source\Tetardink</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Tetardink\Tetardink.cpp">
+			<Filter>Source\Tetardink</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tetardink\Tetardink.h">
+			<Filter>Source\Tetardink</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
